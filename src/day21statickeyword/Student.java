@@ -13,8 +13,8 @@ public class Student {
 
 
 
-  public  static String stdName ="Tom Hanks";
-  public int age = 13;
+  public  static String stdName ="Tom Hanks";//bu heryerden ulasilan static variable
+  public int age = 13;//buda non static
 
 
 
