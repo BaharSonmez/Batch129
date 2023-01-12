@@ -10,6 +10,7 @@ public class StdRunner {
         Student std1 = new Student();
         System.out.println(std1.age);
         Student std2 = new Student();
+        
 
 
     }
