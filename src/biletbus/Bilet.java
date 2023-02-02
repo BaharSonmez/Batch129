@@ -55,21 +55,7 @@ public class Bilet {
             System.out.println("Hatali veri girdiniz....");
 
 
-
-
-
-
         }
-
-
-
-
-
-
-
-
-
-
 
 
     private static void biletDokum(String plakaNumarasi, int km, int yolculukTipi) {
@@ -77,7 +63,6 @@ public class Bilet {
         System.out.println("Otobusun Plakasi" + plakaNumarasi);
         System.out.println("Mesafe" + km);
         System.out.println("Yolculuk Tipi " + (yolculukTipi==1 ? "Tek Yon " : "Gidis Donus"));
-
 
 
 
